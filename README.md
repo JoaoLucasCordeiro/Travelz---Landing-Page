@@ -10,6 +10,7 @@ Mobile
 ![mobile](https://user-images.githubusercontent.com/89361241/198688543-12a389fb-034e-4528-ae5e-e4f77c93c333.png)
 
 ## Link do projeto
+https://travelzlucascordeiro.netlify.app
 
 ## Tecnologias utilizadas
 - HTML
